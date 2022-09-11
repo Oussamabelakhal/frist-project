@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frist-project/static/css/main.1f4b0207.css",
+    "main.js": "/frist-project/static/js/main.b673a4d1.js",
+    "index.html": "/frist-project/index.html",
+    "main.1f4b0207.css.map": "/frist-project/static/css/main.1f4b0207.css.map",
+    "main.b673a4d1.js.map": "/frist-project/static/js/main.b673a4d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f4b0207.css",
+    "static/js/main.b673a4d1.js"
+  ]
+}
